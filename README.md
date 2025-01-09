@@ -1,4 +1,4 @@
-# Disambiguationg historic mill sites
+# Disambiguating historic mill sites
 
 ## Short summary
 Methodology developed in collaboration with Historic England (HE) for disambiguating mill sites across 3 (HE) datasets (Listed Buildings, Records and the Gazetteer).
