@@ -11,15 +11,15 @@ Methodology developed in collaboration with Historic England (HE) for disambigua
 5) What are the key issues to be aware of in performing disambiguation?
 
 ## People 
-**Nayomi Kasthuri Arachchi**:
+**Nayomi Kasthuri Arachchi**: Methodology, Writing - original draft
 
-**Daniel Belteki**:
+**Daniel Belteki**: Methodology 
 
-**Matthew Bristow (HE)**:
+**Matthew Bristow (HE)**: Methodology, Resources
 
-**Simon Crutchley (HE)**:
+**Simon Crutchley (HE)**: Methodology, Resources
 
-**Alex Butterworth**:
+**Alex Butterworth**: Conceptualization, Supervision
 
 ## Data
 The following datasets from HE:
